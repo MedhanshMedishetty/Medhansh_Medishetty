@@ -1,4 +1,4 @@
-# Medhansh_Medishetty
+# About me
 Hi there, I'm Medhansh 👋
 
 🎯 I'm a Data Analytics enthusiast passionate about solving real-world problems through data.
